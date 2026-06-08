@@ -1,0 +1,16 @@
+Order_ID,Order_Date,Customer_Name,Segment,Country,Region,Category,Sub_Category,Sales,Quantity,Discount,Profit,Sales_Rep
+OD-1001,2025-01-15,Amit Sharma,Consumer,India,North,Electronics,Phones,45000,2,0.1,4500,Rajesh Kumar
+OD-1002,2025-01-18,Priya Patel,Corporate,India,West,Furniture,Chairs,28000,4,0.15,2200,Sunita Rao
+OD-1003,2025-02-05,Rahul Verma,Consumer,India,South,Office Supplies,Appliances,15000,1,0.0,3000,Anil Mehta
+OD-1004,2025-02-12,Sneha Reddy,Home Office,India,South,Electronics,Laptops,85000,1,0.05,12000,Anil Mehta
+OD-1005,2025-03-22,Vikram Singh,Consumer,India,North,Furniture,Tables,35000,1,0.2,-1500,Rajesh Kumar
+OD-1006,2025-04-02,Ananya Das,Corporate,India,East,Office Supplies,Binders,4500,5,0.0,900,Pooja Sharma
+OD-1007,2025-04-19,Rohan Joshi,Consumer,India,West,Electronics,Accessories,8000,2,0.1,1600,Sunita Rao
+OD-1008,2025-05-01,Deepak Kumar,Corporate,India,North,Office Supplies,Fasteners,1200,10,0.0,300,Rajesh Kumar
+OD-1009,2025-05-15,Megha Gupta,Home Office,India,East,Furniture,Bookcases,42000,2,0.1,5000,Pooja Sharma
+OD-1010,2025-06-10,Arjun Malhotra,Consumer,India,West,Electronics,Phones,52000,2,0.0,7800,Sunita Rao
+OD-1011,2026-01-20,Amit Sharma,Consumer,India,North,Electronics,Phones,48000,2,0.0,5200,Rajesh Kumar
+OD-1012,2026-02-14,Priya Patel,Corporate,India,West,Furniture,Chairs,31000,4,0.1,3500,Sunita Rao
+OD-1013,2026-03-05,Rahul Verma,Consumer,India,South,Office Supplies,Appliances,18000,1,0.0,3600,Anil Mehta
+OD-1014,2026-04-22,Sneha Reddy,Home Office,India,South,Electronics,Laptops,90000,1,0.0,15000,Anil Mehta
+OD-1015,2026-05-18,Vikram Singh,Consumer,India,North,Furniture,Tables,38000,1,0.1,2000,Rajesh Kumar
